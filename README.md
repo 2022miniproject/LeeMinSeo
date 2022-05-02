@@ -1,8 +1,8 @@
 ##### LeeMinSeo
 프로젝트 개발 정리
 =============
-목차
--------------
+#목차
+---
 > [1. mini project 주제](#1.-mini-project-주제)    
 > [2. mini project 에 대한 소개]    
 > [3. image(pixabay 등 무료 이미지 활용)]    
