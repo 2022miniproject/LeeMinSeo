@@ -39,7 +39,7 @@
 ---
 ## 5. 개발환경 및 언어
 * 개발환경: Visual Studio Code, gcc, Windows or macOS<br>
-* 개발언어: 
+* 개발언어: c
 
 ---
 ## 6. 팀소개 및 팀원이 맡은 역할
